@@ -3,7 +3,7 @@ This is an app that lets you check if the device you are using has root access a
 
 # ShowCase
 
-<img src="READMEIMAGES/RootAccessCheckScreen.png" width="200"> <img src="READMEIMAGES/DevOpCheckScreen.png" width="200"> 
+<img src="READMEIMAGES/RootAccessCheckScreen.png" width="200"> <img src="READMEIMAGES/DevOpCheckScreen.png" width="200"> <img src="READMEIMAGES/AppGIF.gif" width="200"> 
 
 ## Check if device has Root Access
 
