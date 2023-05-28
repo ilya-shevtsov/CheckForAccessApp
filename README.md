@@ -11,7 +11,6 @@ private fun checkForRootAccess() {
         try {
             Runtime.getRuntime().exec("su")
             showToast(requireContext(), "This Device is has Root Access")
-            showToast(requireContext(), "This Device is has Root Access")
         } catch (e: IOException) {
             showToast(requireContext(), "This Device is doesn't have Root Access")
         }
