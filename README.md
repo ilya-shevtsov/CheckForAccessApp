@@ -1,6 +1,10 @@
 # CheckForRootAccessApp
 This is an app that lets you check if the device you are using has root access and developer options 
 
+# ShowCase
+
+<img src="READMEIMAGES/NormalScreen.jpg" width="200"> <img src="READMEIMAGES/RootAccessCheckScreen.jpg" width="200"> <img src="READMEIMAGES/DevOpCheckScreen.jpg" width="200"> 
+
 ## Check if device has Root Access
 
 This is done by using *Runtime.getRuntime().exec("su")* command. 
