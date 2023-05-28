@@ -4,6 +4,7 @@ This is an app that lets you check if the device you are using has root access a
 # ShowCase
 
 <img src="READMEIMAGES/NormalScreen.png" width="200">
+
 ## Check if device has Root Access
 
 <img src="READMEIMAGES/RootAccessCheckScreen.png" width="200">
